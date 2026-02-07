@@ -1,6 +1,6 @@
 # Ocr Workflow V2
 
-An n8n workflow for automated task processing.
+An n8n workflow for automated OCR Scan of Insurance Dec Page
 
 ## Installation
 
